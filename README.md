@@ -16,4 +16,3 @@ Discord-сервер: https://discord.gg/EDJ5csV7hh
 Как проверить файл самому: https://pulsar.wisp.uno/security/
 
 - **Отпечаток:** `Get-FileHash .\Pulsar.exe` в PowerShell должен совпасть с `Pulsar.exe.sha256`.
-- **Подтверждение сборки GitHub:** файл собран на серверах GitHub из открытого кода — `gh attestation verify Pulsar.exe -R Baton4Bl/Babony`.
