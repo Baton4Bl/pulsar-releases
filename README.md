@@ -15,4 +15,4 @@ Discord-сервер: https://discord.gg/EDJ5csV7hh
 Если антивирус или Windows предупреждают о Pulsar — это ложное срабатывание (нет платной подписи, программа работает с драйверами и настройками Windows).
 Как проверить файл самому: https://pulsar.wisp.uno/security/
 
-- **Отпечаток:** `Get-FileHash .\Pulsar.exe` в PowerShell должен совпасть с `Pulsar.exe.sha256`.
+- **Отпечаток:** Win + X → «Терминал» → `Get-FileHash "$env:USERPROFILE\Downloads\Pulsar.exe"` (или `Get-FileHash`, пробел и перетащить файл в окно) — строка Hash должна совпасть с `Pulsar.exe.sha256`.
