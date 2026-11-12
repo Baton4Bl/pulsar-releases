@@ -2,7 +2,7 @@
 
 Диагностика, мониторинг и обслуживание ПК для Windows.
 
-**Скачать:** [Pulsar.exe](https://github.com/Baton4Bl/pulsar-releases/raw/main/Pulsar.exe) — версия 12.0.
+**Скачать:** [Pulsar.exe](https://github.com/Baton4Bl/pulsar-releases/raw/main/Pulsar.exe) — версия 12.1.
 Контрольная сумма SHA-256 — в файле `Pulsar.exe.sha256`.
 
 Сайт: https://pulsar.wisp.uno
